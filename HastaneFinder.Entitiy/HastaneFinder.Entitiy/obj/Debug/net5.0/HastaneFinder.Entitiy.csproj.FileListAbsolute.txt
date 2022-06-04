@@ -1,0 +1,12 @@
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\bin\Debug\net5.0\HastaneFinder.Entitiy.deps.json
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\bin\Debug\net5.0\HastaneFinder.Entitiy.dll
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\bin\Debug\net5.0\HastaneFinder.Entitiy.pdb
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\obj\Debug\net5.0\HastaneFinder.Entitiy.csproj.AssemblyReference.cache
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\obj\Debug\net5.0\HastaneFinder.Entitiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\obj\Debug\net5.0\HastaneFinder.Entitiy.AssemblyInfoInputs.cache
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\obj\Debug\net5.0\HastaneFinder.Entitiy.AssemblyInfo.cs
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\obj\Debug\net5.0\HastaneFinder.Entitiy.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\obj\Debug\net5.0\HastaneFinder.Entitiy.dll
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\obj\Debug\net5.0\refint\HastaneFinder.Entitiy.dll
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\obj\Debug\net5.0\HastaneFinder.Entitiy.pdb
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Entitiy\obj\Debug\net5.0\ref\HastaneFinder.Entitiy.dll

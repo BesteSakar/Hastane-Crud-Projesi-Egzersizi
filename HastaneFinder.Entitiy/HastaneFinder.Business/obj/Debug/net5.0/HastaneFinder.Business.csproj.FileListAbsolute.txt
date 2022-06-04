@@ -1,0 +1,17 @@
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\bin\Debug\net5.0\HastaneFinder.Business.deps.json
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\bin\Debug\net5.0\HastaneFinder.Business.dll
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\bin\Debug\net5.0\HastaneFinder.Business.pdb
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\obj\Debug\net5.0\HastaneFinder.Business.csproj.AssemblyReference.cache
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\obj\Debug\net5.0\HastaneFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\obj\Debug\net5.0\HastaneFinder.Business.AssemblyInfoInputs.cache
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\obj\Debug\net5.0\HastaneFinder.Business.AssemblyInfo.cs
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\obj\Debug\net5.0\HastaneFinder.Business.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\obj\Debug\net5.0\HastaneFinder.Business.dll
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\obj\Debug\net5.0\refint\HastaneFinder.Business.dll
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\obj\Debug\net5.0\HastaneFinder.Business.pdb
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\obj\Debug\net5.0\ref\HastaneFinder.Business.dll
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\bin\Debug\net5.0\HastaneFinder.DataAcess.dll
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\bin\Debug\net5.0\HastaneFinder.Entitiy.dll
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\bin\Debug\net5.0\HastaneFinder.DataAcess.pdb
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\bin\Debug\net5.0\HastaneFinder.Entitiy.pdb
+C:\Users\beste\source\repos\HastaneFinder.Entitiy\HastaneFinder.Business\obj\Debug\net5.0\HastaneFinder.Business.csproj.CopyComplete
